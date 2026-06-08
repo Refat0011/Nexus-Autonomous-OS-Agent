@@ -176,12 +176,20 @@ When autonomous mode is enabled, Nexus self-triggers a maintenance cycle approxi
 
 ## Screenshots
 
-> Add actual dashboard screenshots to the `/screenshots` folder and update these references.
+### Dashboard Overview
+![Dashboard](screenshots/dashboard.png)
 
-- ![Dashboard Overview](screenshots/dashboard_overview.png)
-- ![System Health](screenshots/system_health.png)
-- ![Maintenance Plan](screenshots/maintenance_plan.png)
-- ![Recovery Center](screenshots/recovery_center.png)
+### System Health
+![System Health](screenshots/system_health.png)
+
+### Maintenance Plan
+![Maintenance Plan](screenshots/maintenance_plan.png)
+
+### Recovery Center
+![Recovery Center](screenshots/recovery_center.png)
+
+### Action History
+![Action History](screenshots/action_history.png)
 
 ## Contributors
 

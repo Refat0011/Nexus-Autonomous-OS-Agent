@@ -1,0 +1,6 @@
+NEXUS SYSTEM REPORT
+========================================
+CPU Usage: 36.0%
+RAM Usage: 90.8%
+Disk Usage: 72.1%
+Health Score: 80/100

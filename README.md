@@ -174,23 +174,6 @@ When autonomous mode is enabled, Nexus self-triggers a maintenance cycle approxi
 - Extend file categorization and recovery rules.
 - Add user authentication and secure logging.
 
-## Screenshots
-
-### Dashboard Overview
-![Dashboard](screenshots/dashboard.png)
-
-### System Health
-![System Health](screenshots/system_health.png)
-
-### Maintenance Plan
-![Maintenance Plan](screenshots/maintenance_plan.png)
-
-### Recovery Center
-![Recovery Center](screenshots/recovery_center.png)
-
-### Action History
-![Action History](screenshots/action_history.png)
-
 ## Contributors
 
 - Project Nexus Core Team

@@ -174,10 +174,15 @@ When autonomous mode is enabled, Nexus self-triggers a maintenance cycle approxi
 - Extend file categorization and recovery rules.
 - Add user authentication and secure logging.
 
-## Contributors
+## Author
 
-- Project Nexus Core Team
-- Developer: Autonomous OS Optimization Architect
+Sayed Refat
+
+Computer Science Student, Sejong University
+
+## Academic Supervisor
+
+Professor Muhammad Zubair Islam
 
 ## License
 
